@@ -1,55 +1,60 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ╔═══════════════════════ HEADER ═══════════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=260&section=header&text=Diogo%20Campelo&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=%E2%9C%A6%20Web%20Developer%20in%20the%20making%20%E2%9C%A6&descSize=20&descAlignY=58&stroke=ffffff&strokeWidth=1" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7c3aed,100:00f0ff&height=250&section=header&text=Diogo%20Campelo&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Web%20Developer%20in%20Training&descSize=20&descAlignY=58" alt="Banner" width="100%" />
 
+<!-- Terminal animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=640&height=50&lines=%3E+Ol%C3%A1%2C+eu+sou+o+Diogo+%F0%9F%91%8B;%3E+Estudante+de+Desenvolvimento+Web+%F0%9F%92%BB;%3E+HTML+%C2%B7+CSS+%C2%B7+PHP+%C2%B7+C%2B%2B+%E2%9A%A1;%3E+A+transformar+caf%C3%A9+em+c%C3%B3digo+%E2%98%95%E2%9E%9C%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=00F0FF&multiline=true&repeat=false&vCenter=true&width=480&height=120&lines=diogo%40web%3A~%24+whoami;%3E+Estudante+de+Desenvolvimento+Web;diogo%40web%3A~%24+cat+stack.txt;%3E+HTML+%7C+CSS+%7C+PHP+%7C+C%2B%2B" alt="Terminal" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Navegação -->
-<a href="#-sobre-mim"><kbd> 👤 Sobre </kbd></a>
-<a href="#-stack"><kbd> 🛠️ Stack </kbd></a>
-<a href="#-projetos"><kbd> 🚀 Projetos </kbd></a>
+<a href="#-ficha-de-personagem"><kbd> 🎮 Ficha </kbd></a>
+<a href="#-skills-desbloqueadas"><kbd> 🧰 Skills </kbd></a>
+<a href="#-missões"><kbd> 🚀 Missões </kbd></a>
 <a href="#-estatísticas"><kbd> 📊 Stats </kbd></a>
-<a href="#-contacto"><kbd> 💬 Contacto </kbd></a>
+<a href="#-roadmap"><kbd> 🗺️ Roadmap </kbd></a>
+<a href="#-press-start"><kbd> 💬 Contacto </kbd></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Estado-A%20aprender%20todos%20os%20dias-0ea5e9?style=for-the-badge&labelColor=0d1117" alt="Estado" />
-<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-a855f7?style=for-the-badge&labelColor=0d1117" alt="Foco" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitas&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Visitas" />
+<img src="https://img.shields.io/badge/CLASSE-Web%20Developer-ff2e97?style=for-the-badge&labelColor=1a1033" alt="Classe" />
+<img src="https://img.shields.io/badge/N%C3%8DVEL-01%20Aprendiz-7c3aed?style=for-the-badge&labelColor=1a1033" alt="Nível" />
+<img src="https://img.shields.io/badge/XP-a%20crescer-00f0ff?style=for-the-badge&labelColor=1a1033" alt="XP" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitas&color=ff2e97&style=for-the-badge&labelColor=1a1033" alt="Visitas" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ SOBRE MIM ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>👤 Sobre mim</h2>
-</div>
+<!-- ╔═══════════════════════ FICHA ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">🎮 Ficha de Personagem</h2>
 
 <table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="middle">
 
-```ts
-const diogo = {
-  nome:       "Diogo Campelo",
-  area:       "Desenvolvimento Web",
-  nivel:      "Estudante / Iniciante 🌱",
-  stack:      ["HTML", "CSS", "PHP", "C++"],
-  aAprender:  ["PHP + MySQL", "JavaScript"],
-  objetivo:   "Primeiro emprego como developer 🎯",
-  curiosidade:"Primeiro faz funcionar, depois faz bonito 😄",
-};
+```text
+┌──────────────────────────────────────────────┐
+│  PLAYER: Diogo Campelo                       │
+│  CLASSE: Web Developer (em formação)         │
+│  NÍVEL : 01  ▸  Aprendiz                     │
+├──────────────────────────────────────────────┤
+│  HTML   ██████████████░░░░░░  LVL 7          │
+│  CSS    ████████████░░░░░░░░  LVL 6          │
+│  C++    █████████░░░░░░░░░░░  LVL 4          │
+│  PHP    ███████░░░░░░░░░░░░░  LVL 3          │
+├──────────────────────────────────────────────┤
+│  XP     ████████░░░░░░░░░░░░  em crescimento │
+│  CAFÉ   ████████████████████  ∞              │
+└──────────────────────────────────────────────┘
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="A programar" />
 </td>
 </tr>
@@ -57,164 +62,188 @@ const diogo = {
 
 <div align="center">
 
-🔭 **A trabalhar em:** projetos pessoais para o portfólio &nbsp;·&nbsp; 🌱 **A estudar:** PHP & bases de dados
+🔭 **Missão atual:** construir projetos para o portfólio &nbsp;·&nbsp; 🌱 **A estudar:** PHP & bases de dados
 <br/>
-🤝 **Aberto a:** colaborações e feedback &nbsp;·&nbsp; 💬 **Pergunta-me sobre:** HTML, CSS e lógica em C++
+🤝 **Aberto a:** colaborações, feedback e ideias &nbsp;·&nbsp; 💡 **Lema:** *"Primeiro faz funcionar, depois faz bonito."*
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ STACK ═══════════════════════ -->
+<!-- ╔═══════════════════════ SKILLS ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">🧰 Skills Desbloqueadas</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>🛠️ Stack</h2>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,cpp,git,github,vscode,mysql&perline=8" alt="Tecnologias" />
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,php,cpp,mysql,git,github,vscode&perline=8" alt="Tecnologias" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+
+<br/><br/>
+
+🏆 <img src="https://img.shields.io/badge/Conquista-Primeiro%20commit-ff2e97?style=flat-square&labelColor=1a1033" alt="Primeiro commit" />
+🏆 <img src="https://img.shields.io/badge/Conquista-Primeira%20p%C3%A1gina%20web-7c3aed?style=flat-square&labelColor=1a1033" alt="Primeira página web" />
+🏆 <img src="https://img.shields.io/badge/Conquista-Hello%20World%20em%20C%2B%2B-00f0ff?style=flat-square&labelColor=1a1033" alt="Hello World" />
+
 </div>
 
-<br/>
+<details align="center">
+<summary><b>💻 Clica aqui para ver o meu "Hello World"</b></summary>
 
-<div align="center">
+```cpp
+#include <iostream>
 
-```text
- HTML  ██████████████░░░░░░  70%   ▸ Intermédio
- CSS   ████████████░░░░░░░░  60%   ▸ Em progresso
- C++   █████████░░░░░░░░░░░  45%   ▸ Base sólida
- PHP   ███████░░░░░░░░░░░░░  35%   ▸ A aprender
+int main() {
+    std::cout << "Olá, mundo! Eu sou o Diogo 👋" << std::endl;
+    return 0;
+}
 ```
 
-</div>
+</details>
 
 <br/>
 
-<!-- ═══════════════════════ PROJETOS ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>🚀 Projetos</h2>
-</div>
+<!-- ╔═══════════════════════ MISSÕES ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">🚀 Missões</h2>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Projeto 1 — Landing Page</h3>
+      <h3>🌐 Missão 01 — Landing Page</h3>
+      <img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDA-00f0ff?style=flat-square&labelColor=1a1033" alt="Status" />
       <p>Site responsivo e moderno criado com HTML e CSS.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PROJETO_1"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github" alt="Código" /></a>
-      <a href="https://LINK_DEMO_1"><img src="https://img.shields.io/badge/Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+      <a href="https://github.com/YOUR_USERNAME/PROJETO_1"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github" alt="Código" /></a>
+      <a href="https://LINK_DEMO_1"><img src="https://img.shields.io/badge/Demo-ff2e97?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐘 Projeto 2 — Formulário PHP</h3>
+      <h3>🐘 Missão 02 — Formulário PHP</h3>
+      <img src="https://img.shields.io/badge/STATUS-EM%20CURSO-ff2e97?style=flat-square&labelColor=1a1033" alt="Status" />
       <p>Formulário de contacto com validação e envio em PHP.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PROJETO_2"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github" alt="Código" /></a>
-      <a href="https://LINK_DEMO_2"><img src="https://img.shields.io/badge/Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+      <a href="https://github.com/YOUR_USERNAME/PROJETO_2"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github" alt="Código" /></a>
+      <a href="https://LINK_DEMO_2"><img src="https://img.shields.io/badge/Demo-ff2e97?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Projeto 3 — Programa em C++</h3>
+      <h3>⚙️ Missão 03 — Programa em C++</h3>
+      <img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDA-00f0ff?style=flat-square&labelColor=1a1033" alt="Status" />
       <p>Aplicação de consola para praticar lógica e estruturas de dados.</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PROJETO_3"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github" alt="Código" /></a>
+      <a href="https://github.com/YOUR_USERNAME/PROJETO_3"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github" alt="Código" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ Projeto 4 — Portfólio</h3>
-      <p>O meu cantinho online com os meus trabalhos e evolução.</p>
+      <h3>✨ Missão 04 — Portfólio</h3>
+      <img src="https://img.shields.io/badge/STATUS-PR%C3%93XIMA-7c3aed?style=flat-square&labelColor=1a1033" alt="Status" />
+      <p>O meu cantinho online com os meus trabalhos e a minha evolução.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME/PORTFOLIO"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github" alt="Código" /></a>
-      <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Ver%20online-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver online" /></a>
+      <a href="https://github.com/YOUR_USERNAME/PORTFOLIO"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github" alt="Código" /></a>
+      <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Ver%20online-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver online" /></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════ ESTATÍSTICAS ═══════════════════════ -->
+<!-- ╔═══════════════════════ ESTATÍSTICAS ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">📊 Estatísticas</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>📊 Estatísticas</h2>
 
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" alt="Estatísticas GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Linguagens" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=0ea5e9&point=ffffff" alt="Atividade" width="100%" />
-</div>
-
-<!--
-  🐍 OPCIONAL — Snake animada (precisa de um GitHub Action):
-  1. Cria o ficheiro .github/workflows/snake.yml com a action "Platane/snk"
-  2. Depois de correr, descomenta a linha abaixo:
-
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
--->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true&border_radius=12" alt="Estatísticas GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&border_radius=12" alt="Linguagens" />
 
 <br/>
 
-<!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>🗺️ Roadmap</h2>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=synthwave&hide_border=true&border_radius=12" alt="Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Troféus" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&bg_color=1a1033&color=ff2e97&line=00f0ff&point=ffffff&area_color=7c3aed" alt="Atividade" width="100%" />
+
 </div>
 
-```text
- ✅  HTML & CSS básicos ───▶ ✅  Primeiros passos em C++ ───▶ 🔄  PHP + MySQL
-                                                                    │
- 🏁  Primeiro emprego  ◀─── 🎯  Portfólio completo  ◀─── ⏳  JavaScript
+<br/>
+
+<!-- ╔═══════════════════════ ROADMAP ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">🗺️ Roadmap</h2>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'lineColor':'#00f0ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A([🌱 HTML e CSS]):::done --> B([⚙️ C++]):::done --> C([🐘 PHP + MySQL]):::now --> D([⚡ JavaScript]):::next --> E([🎯 Portfólio]):::next --> F([🏁 1º Emprego]):::goal
+
+    classDef done fill:#00f0ff,stroke:#00f0ff,color:#0d0221
+    classDef now fill:#ff2e97,stroke:#ff2e97,color:#ffffff
+    classDef next fill:#1a1033,stroke:#7c3aed,color:#ffffff
+    classDef goal fill:#7c3aed,stroke:#ff2e97,color:#ffffff
 ```
 
+<div align="center">
+
+<sub>🟦 concluído &nbsp;·&nbsp; 🟪 em curso &nbsp;·&nbsp; ⬛ a seguir</sub>
+
+</div>
+
 <br/>
 
-<!-- ═══════════════════════ CONTACTO ═══════════════════════ -->
+<!-- ╔═══════════════════════ CONTACTO ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,50:7c3aed,100:00f0ff&height=3&section=header" width="100%" alt="" />
+
+<h2 align="center">💬 Press Start</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:a855f7&height=2&section=header" width="100%" alt="" />
-  <h2>💬 Contacto</h2>
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="Aceno" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="Aceno" />
 
-  <p><b>Tens uma ideia, um projeto ou queres trocar conhecimentos?</b><br/>Vamos conversar!</p>
+**Tens uma ideia, um projeto ou queres trocar conhecimentos?**
+<br/>Escolhe o teu canal e vamos conversar!
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portf%C3%B3lio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<br/>
 
-  <br/><br/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-ff2e97?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Citação" />
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=FF2E97&center=true&vCenter=true&width=460&lines=INSERT+COIN+TO+CONTINUE+%F0%9F%AA%99;Obrigado+pela+visita!+%E2%9C%A8;Deixa+uma+%E2%AD%90+se+gostaste!" alt="Insert coin" />
+</a>
+
 </div>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Obrigado+pela+visita!+%E2%9C%A8;Deixa+uma+%E2%AD%90+se+gostaste!" alt="Obrigado" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=140&section=footer&animation=twinkling" alt="Footer" width="100%" />
+<!-- ╔═══════════════════════ FOOTER ═══════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7c3aed,100:ff2e97&height=140&section=footer&animation=twinkling" alt="Footer" width="100%" />
