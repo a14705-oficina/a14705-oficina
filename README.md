@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER (GIF animado) ═══════════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.gif" alt="Diogo Campelo - Estudante de Desenvolvimento Web" width="100%" />
+<img src="https://drive.google.com/file/d/1JZnaoCMpSerkYrt9xFQGNyVYeO9yWLUC/view?usp=sharing" alt="Diogo Campelo - Estudante de Desenvolvimento Web" width="100%" />
 
 <br/>
 
