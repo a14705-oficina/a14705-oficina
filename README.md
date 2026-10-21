@@ -97,12 +97,9 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 
 </div>
 
-Substitui REPO_1, REPO_2, REPO_3 e REPO_4 pelos nomes dos teus repositórios. Remove os cartões que não utilizares.
-
-📈 Estatísticas
+<h1>📈 Estatísticas</h1>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&border_radius=12&rank_icon=github" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=a14705-oficina&show_icons=true&hide_border=true&theme=tokyonight&border_radius=12&rank_icon=github" alt="Estatísticas do GitHub"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&
