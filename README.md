@@ -51,7 +51,7 @@ Gosto de transformar ideias em páginas e aplicações, aprender novas tecnologi
 
 <br/><br/>
 
-<h1>Ferramentas de desenvolvimento</h1>
+<h2>Ferramentas de desenvolvimento</h2>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code"/>
 
@@ -67,7 +67,7 @@ MySQL	▰▰▱▱▱▱▱▱▱▱
 
 Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.
 
-🚀 Projetos
+<h1>🚀 Projetos</h1>
 
 Aqui apresento alguns dos projetos que desenvolvo para praticar programação, experimentar novas ideias e consolidar os meus conhecimentos.
 
