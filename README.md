@@ -59,11 +59,11 @@ Gosto de transformar ideias em páginas e aplicações, aprender novas tecnologi
 
 <h1>📊 Competências atuais</h1>
 Tecnologia	Nível de aprendizagem
-HTML	▰▰▰▰▰▰▰▱▱▱
-CSS	▰▰▰▰▰▰▰▱▱▱
-PHP	▰▰▰▰▰▰▱▱▱▱
-C++	▰▰▰▰▱▱▱▱▱▱
-MySQL	▰▰▱▱▱▱▱▱▱▱
+HTML	▰▰▰▰▰▰▰▱▱▱<br>
+CSS	▰▰▰▰▰▰▰▱▱▱<br>
+PHP	▰▰▰▰▰▰▱▱▱▱<br>
+C++	▰▰▰▰▱▱▱▱▱▱<br>
+MySQL	▰▰▱▱▱▱▱▱▱▱<br>
 
 Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.
 
