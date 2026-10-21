@@ -105,3 +105,31 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 <br/><br/>
 <img width="70%" src="https://streak-stats.demolab.com?user=a14705-oficina&theme=tokyonight&hide_border=true&border_radius=12" alt="Sequência de contribuições"/>
 </div>
+
+<h1>🤝 Contacto</h1>
+Tens uma ideia, um projeto ou queres trocar conhecimentos? Entra em contacto comigo!
+
+<div align="center">
+
+<a href="https://github.com/a14705-oficina">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/diogocampelo/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:a14705@oficina.pt">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://instagram.com/dcampelo__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=130&section=footer" alt="Obrigado pela visita"/>
+
+⭐ Obrigado pela visita ao meu perfil!
+
+Feito com dedicação, curiosidade e vontade de aprender.
+
+</div>
