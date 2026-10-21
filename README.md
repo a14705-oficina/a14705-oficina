@@ -101,5 +101,9 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=a14705-oficina&show_icons=true&hide_border=true&theme=tokyonight&border_radius=12&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14705-oficina&layout=compact&hide_border=true&theme=tokyonight&border_radius=12" alt="Linguagens mais utilizadas"/>
+<br/><br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=a14705-oficina&theme=tokyonight&hide_border=true&border_radius=12" alt="Sequência de contribuições"/>
+<br/><br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a14705-oficina&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade do GitHub"/>
+</div>
