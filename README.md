@@ -41,23 +41,23 @@ Gosto de transformar ideias em páginas e aplicações, aprender novas tecnologi
 
 </div>
 
-🧰 Tecnologias
+<h1>🧰 Tecnologias</h1>
 
 <div align="center">
 
-Linguagens e bases de dados
+<h1>Linguagens e bases de dados</h1>
 
 <img src="https://skillicons.dev/icons?i=html,css,php,cpp,mysql&theme=dark" alt="HTML, CSS, PHP, C++ e MySQL"/>
 
 <br/><br/>
 
-Ferramentas de desenvolvimento
+<h1>Ferramentas de desenvolvimento</h1>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code"/>
 
 </div>
 
-📊 Competências atuais
+<h1>📊 Competências atuais</h1>
 Tecnologia	Nível de aprendizagem
 HTML	▰▰▰▰▰▰▰▱▱▱
 CSS	▰▰▰▰▰▰▰▱▱▱
