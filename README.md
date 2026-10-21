@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=a14705-oficina&label=VISITAS&color=2563eb&style=for-the-badge" alt="Visitas ao perfil"/>
+<img src="https://komarev.com/ghpvc/?username=a14705-oficin&label=VISITAS&color=2563eb&style=for-the-badge" alt="Visitas ao perfil"/>
 
 <br/><br/>
 
