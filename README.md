@@ -83,7 +83,7 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=a14705-oficina&repo=m7-futebol&theme=tokyonight&hide_border=true&border_radius=12" alt="Projeto 1"/><br>
 </a>
 <a href="https://github.com/a14705-oficina/m4-siteveiculos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14705-oficina&repo=m4-veiculos&theme=tokyonight&hide_border=true&border_radius=12" alt="Projeto 2"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=a14705-oficina&repo=m4-siteveiculos&theme=tokyonight&hide_border=true&border_radius=12" alt="Projeto 2"/>
 </a>
 
 <br/>
