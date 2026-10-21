@@ -65,7 +65,7 @@ PHP	▰▰▰▰▰▰▱▱▱▱<br>
 C++	▰▰▰▰▱▱▱▱▱▱<br>
 MySQL	▰▰▱▱▱▱▱▱▱▱<br>
 
-Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.
+<p>Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.</p>
 
 <h1>🚀 Projetos</h1>
 
