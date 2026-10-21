@@ -20,7 +20,7 @@
 
 </div>
 
-👨‍💻 Sobre mim
+<h1>👨‍💻 Sobre mim</h1>
 
 Olá! Eu sou o Diogo Campelo, estudante de Desenvolvimento Web, a dar os primeiros passos no mundo da programação.
 
