@@ -73,13 +73,13 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 
 <div align="center">
 
-<a href="https://github.com/a14705-oficina/m7-futebol">
+<a href="https://github.com/a14705-oficina">
 <img src="https://img.shields.io/badge/Explorar%20todos%20os%20projetos-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos os projetos"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME/REPO_1">
+<a href="https://github.com/a14705-oficina/m7-futebol">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true&border_radius=12" alt="Projeto 1"/>
 </a>
 <a href="https://github.com/YOUR_USERNAME/REPO_2">
