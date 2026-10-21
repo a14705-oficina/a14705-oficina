@@ -73,7 +73,7 @@ Aqui apresento alguns dos projetos que desenvolvo para praticar programação, e
 
 <div align="center">
 
-<a href="a14705-oficina/m7-futebol">
+<a href="https://github.com/a14705-oficina/m7-futebol">
 <img src="https://img.shields.io/badge/Explorar%20todos%20os%20projetos-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar todos os projetos"/>
 </a>
 
