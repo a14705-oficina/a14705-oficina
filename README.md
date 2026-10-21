@@ -63,9 +63,9 @@ HTML	▰▰▰▰▰▰▰▱▱▱<br>
 CSS	▰▰▰▰▰▰▰▱▱▱<br>
 PHP	▰▰▰▰▰▰▱▱▱▱<br>
 C++	▰▰▰▰▱▱▱▱▱▱<br>
-MySQL	▰▰▱▱▱▱▱▱▱▱<br>
-
-<p>Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.</p>
+MySQL	▰▰▱▱▱▱▱▱▱▱
+<br><br>
+Os indicadores são estimativas pessoais do meu progresso e não avaliações oficiais.</p>
 
 <h1>🚀 Projetos</h1>
 
