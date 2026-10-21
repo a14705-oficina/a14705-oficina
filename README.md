@@ -27,10 +27,10 @@ Olá! Eu sou o Diogo Campelo, estudante de Desenvolvimento Web, a dar os primeir
 Gosto de transformar ideias em páginas e aplicações, aprender novas tecnologias e melhorar as minhas competências através de projetos práticos.
 
 🌐 A aprofundar HTML e CSS<br>
-⚙️ A aprender PHP e bases de dados
-🧠 A praticar lógica de programação com C++
-🛠️ A explorar Git, GitHub e VS Code
-🚀 A desenvolver projetos para o meu portfólio
+⚙️ A aprender PHP e bases de dados<br>
+🧠 A praticar lógica de programação com C++<br>
+🛠️ A explorar Git, GitHub e VS Code<br>
+🚀 A desenvolver projetos para o meu portfólio<br>
 🎯 Com o objetivo de conquistar a minha primeira oportunidade profissional
 
 <br/>
