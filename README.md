@@ -45,7 +45,7 @@ Gosto de transformar ideias em páginas e aplicações, aprender novas tecnologi
 
 <div align="center">
 
-<h1>Linguagens e bases de dados</h1>
+<h2>Linguagens e bases de dados</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,php,cpp,mysql&theme=dark" alt="HTML, CSS, PHP, C++ e MySQL"/>
 
